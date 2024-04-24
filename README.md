@@ -8,7 +8,7 @@
 <!-- /!\ do not modify above this line -->
 
 # Cooperative
-
+test
 Modules related to a cooperative registry (subscribtion requests, share transfer, ...).
 
 <!-- /!\ do not modify below this line -->
